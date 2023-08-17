@@ -17,9 +17,9 @@ import { NavLink } from "react-router-dom"
 const Navbar = () => {
   
   return (
-    <nav className="p-4 bg-blue-300 shadow md:flex md:items-center justify-between">
+    <nav className="p-4 bg-blue-300 shadow md:flex md:items-center justify-between fixed top-0 w-full">
       <div className=" pl-20">
-        <span className="pl-8 font-[Poppins] text-2xl font-bold text-gray-700 cursor-pointer" >
+        <span className="pl-8 font-[Poppins] text-2xl font-bold text-gray-700 cursor-pointer " >
              <a href="/"> Bitstore</a>
         </span> 
       </div>

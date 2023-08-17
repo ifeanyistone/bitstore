@@ -11,7 +11,7 @@ const Collections = () => {
   return (
     <div>
         <Navbar /> 
-        <h2>DSS is a criminal organ</h2>
+        <h2>Collections goes in here</h2>
       {/* {state.name} */}
 
     </div>
